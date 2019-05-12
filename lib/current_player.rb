@@ -7,6 +7,7 @@ def turn_count(board)
 end
 counter
 end
+<<<<<<< HEAD
 
 def current_player(board)
   if turn_count(board).even?
@@ -15,3 +16,5 @@ def current_player(board)
     "O"
   end
 end
+=======
+>>>>>>> 9edc412a6d28cb88717d18c0f784be934250a54a
